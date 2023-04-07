@@ -1,2 +1,2 @@
-# yandex_practicum_DS_projects
-Repository for Yandex.Practicum Data Science projects
+# Yandex Practicum DS projects
+Репозиторий с проектами программы курсов Яндекс.Практикум по направлению Data Science.
